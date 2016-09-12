@@ -1,0 +1,27 @@
+{
+  "name": "react-redux-vk-api",
+  "version": "1.0.0",
+  "description": "\"# react-redux-vk-app\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbob89/react-redux-vk-app.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "bobo89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrbob89/react-redux-vk-app/issues"
+  },
+  "homepage": "https://github.com/mrbob89/react-redux-vk-app#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2",
+    "webpack-dev-middleware": "^1.7.0",
+    "webpack-hot-middleware": "^2.12.2"
+  }
+}
