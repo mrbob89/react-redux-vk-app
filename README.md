@@ -1,1 +1,1 @@
-"# react-redux-vk-app" 
+# react-redux-vk-app
