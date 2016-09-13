@@ -1,9 +1,8 @@
-const initialState = {
-  name: 'Roman',
-  surname: 'Bobo',
-  age: 26
-};
+import { combineReducers } from 'redux'
+import page from './page'
+import user from './user'
 
-export default function userState(state = initialState) {
-  return state;
-}
+export default combineReducers({
+  page,
+  user
+})
